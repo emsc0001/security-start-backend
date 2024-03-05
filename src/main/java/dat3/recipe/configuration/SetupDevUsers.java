@@ -1,4 +1,4 @@
-package dat3.security_demo.configuration;
+package dat3.recipe.configuration;
 
 import dat3.security.entity.Role;
 import dat3.security.entity.UserWithRoles;
